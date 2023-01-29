@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shalini r</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img."right"alt="coding"width="400"src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img."right"alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4OQ67txelHemKrU21uQrMU2EcK-O1R8N8sjvGZbgbmV6gyKof6i5rSNARZST8n2XBpc&usqp=CAU">
 
 - 🔭 I’m currently working on **python**
 
